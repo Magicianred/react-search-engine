@@ -4,11 +4,11 @@ Simple React.js search engine.
 
 > Before
 
-![Screenshot](https://raw.githubusercontent.com/jack5341/demand-print/master/Screenshot.PNG)
+![Screenshot](https://raw.githubusercontent.com/jack5341/react-search-engine/master/master/img/screenshot%202.PNG)
 
 > After search
 
-![Screenshot](https://raw.githubusercontent.com/jack5341/demand-print/master/Screenshot.PNG)
+![Screenshot](https://raw.githubusercontent.com/jack5341/react-search-engine/master/master/img/screenshot%201.PNG)
 
 ## How to install 
 
