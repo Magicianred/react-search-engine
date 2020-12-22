@@ -14,7 +14,7 @@ Simple React.js search engine.
 
 -   Clone Repo
 ```sh
-$ git clone https://github.com/jack5341/demand-print.git
+$ git clone https://github.com/jack5341/react-search-engine.git
 ```
 
 - Install Dependencies
